@@ -1,0 +1,8 @@
+[bot]
+                               token=""
+                               prefix="alexa "
+
+                               [alexa]
+                               response-guild=226036362309009410
+                               response-channel=226036362309009410
+                               request-user=226755429592596481
